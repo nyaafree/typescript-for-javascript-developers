@@ -1,2 +1,2 @@
-let message:string = 'Hello TypeScirpt';
+let message:string = 'Hello ts-node!!!';
 console.log({message});
